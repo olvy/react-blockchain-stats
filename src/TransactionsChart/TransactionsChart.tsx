@@ -24,10 +24,7 @@ type Props = {
 export default function TransactionsChart(props: Props) {
   const groups = useMemo(() => groupTransactionsByBlockHash(props.data), [props.data]);
   // total x range is from the first block number to the last block number
-  const totalXRange = useMemo(() => [
-    parseInt(groups[0].group[0].Block.Number, 10),
-    parseInt(groups[groups.length - 1].group[0].Block.Number, 10),
-  ], [groups]);
+  const totalXRange = useMemo(() => [0, groups.length - 1], [groups]);
 
   // Hover
   const [hoverIndex, setHoverIndex] = useState(-1);
@@ -73,6 +70,7 @@ export default function TransactionsChart(props: Props) {
           key={`bar-${group.blockHash}`}
           blockWidth={blockWidth}
           data={group}
+          index={i}
           isHovered={hoverIndex !== -1 && hoverIndex !== i}
           onMouseEnter={(xPosition) => {
             setHoverIndex(i);

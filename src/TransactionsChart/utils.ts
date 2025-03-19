@@ -98,6 +98,7 @@ export const getTransactionsBarParams = (
   yMax: number,
   data: TransactionsGrouped,
   blockWidth: number,
+  index: number,
 ) => {
   // Gap between bars
   const gapWidth = blockWidth * BAR_GAP_FRACTION;
@@ -105,7 +106,7 @@ export const getTransactionsBarParams = (
   const barWidth = blockWidth - gapWidth;
   // Bar height
   const value = data.group.length;
-  const positionX = x(parseInt(data.group[0].Block.Number, 10));
+  const positionX = x(index);
   const positionY = y(yMax - value);
   let height = y(value);
   if (height < BAR_MIN_HEIGHT) {

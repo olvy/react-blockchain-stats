@@ -11,6 +11,7 @@ type Props = {
   y: ScaleLinear<number, number>;
   yMax: number;
   data: TransactionsGrouped;
+  index: number;
   isHovered: boolean;
   onMouseEnter: (xPosition: number) => void;
   onMouseLeave: () => void;
@@ -18,8 +19,8 @@ type Props = {
 
 export default function TransactionsBar(props: Props) {
   const { barWidth, gapWidth, height, positionX, positionY } = useMemo(
-    () => getTransactionsBarParams(props.x, props.y, props.yMax, props.data, props.blockWidth),
-    [props.x, props.y, props.yMax, props.data, props.blockWidth]
+    () => getTransactionsBarParams(props.x, props.y, props.yMax, props.data, props.blockWidth, props.index),
+    [props.x, props.y, props.yMax, props.data, props.blockWidth, props.index]
   );
 
   return (
