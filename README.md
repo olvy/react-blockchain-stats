@@ -1,5 +1,7 @@
 # react-blockchain-stats
 
+https://olvy.github.io/react-blockchain-stats/
+
 ## Running the project
 1. `$ npm install`
 
