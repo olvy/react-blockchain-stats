@@ -1,0 +1,2006 @@
+{
+  "EVM": {
+    "DEXTrades": [
+      {
+        "Block": {
+          "Date": "2025-03-19",
+          "Time": "2025-03-19T01:11:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 1940.4262800000001
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-18",
+          "Time": "2025-03-18T21:54:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 1908.150663789998
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-17",
+          "Time": "2025-03-17T01:01:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 1907.1049845607738
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-16",
+          "Time": "2025-03-16T00:28:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 1939.1569490834236
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-15",
+          "Time": "2025-03-15T01:20:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 1917.367200238703
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-14",
+          "Time": "2025-03-14T00:42:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 1875.3525900878585
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-13",
+          "Time": "2025-03-13T00:37:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 1903.713653428283
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-12",
+          "Time": "2025-03-12T00:37:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 1918.5677636363637
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-11",
+          "Time": "2025-03-11T00:37:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 1823.173658844217
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-10",
+          "Time": "2025-03-10T09:26:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2138.4346511963045
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-09",
+          "Time": "2025-03-09T00:47:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2204.0156709410694
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-08",
+          "Time": "2025-03-08T16:34:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2172.284655894664
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-07",
+          "Time": "2025-03-07T00:54:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2116.1124319114897
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-06",
+          "Time": "2025-03-06T00:46:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2245.447525
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-05",
+          "Time": "2025-03-05T00:41:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2161.2795066033405
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-04",
+          "Time": "2025-03-04T00:44:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2130.885116650364
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-03",
+          "Time": "2025-03-03T04:12:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2438.243349378665
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-02",
+          "Time": "2025-03-02T05:48:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2227.0141081631436
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-03-01",
+          "Time": "2025-03-01T00:34:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2230.870361946903
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-28",
+          "Time": "2025-02-28T00:25:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2308.604913482955
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-27",
+          "Time": "2025-02-27T00:49:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2345.3585223358227
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-26",
+          "Time": "2025-02-26T00:43:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2478.6087002903037
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-25",
+          "Time": "2025-02-25T00:45:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2487.9454243640184
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-24",
+          "Time": "2025-02-24T04:35:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2699.309622256417
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-23",
+          "Time": "2025-02-23T08:20:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2802.556597428905
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-22",
+          "Time": "2025-02-22T00:07:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2659.589177526955
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-21",
+          "Time": "2025-02-21T00:16:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2742.1929318871453
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-20",
+          "Time": "2025-02-20T00:05:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2715.0123758983136
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-19",
+          "Time": "2025-02-19T00:30:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2670.1383597489234
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-18",
+          "Time": "2025-02-18T00:21:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2734.6629979320796
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-17",
+          "Time": "2025-02-17T00:15:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2662.760531895028
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-16",
+          "Time": "2025-02-16T03:01:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2689.056503243664
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-15",
+          "Time": "2025-02-15T02:03:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2725.2208988809525
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-14",
+          "Time": "2025-02-14T14:54:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2730.4787876070936
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-13",
+          "Time": "2025-02-13T00:42:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2727.0829185278803
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-12",
+          "Time": "2025-02-12T00:01:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2600.6529353120277
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-11",
+          "Time": "2025-02-11T00:37:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2703.730744715654
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-10",
+          "Time": "2025-02-10T00:48:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2647.6231975076744
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-09",
+          "Time": "2025-02-09T09:31:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2659.849702316966
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-08",
+          "Time": "2025-02-08T00:55:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2642.383307827373
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-07",
+          "Time": "2025-02-07T22:22:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2574.4428387172516
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-06",
+          "Time": "2025-02-06T00:28:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2783.2032169941835
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-05",
+          "Time": "2025-02-05T00:54:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2731.1440448350318
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-04",
+          "Time": "2025-02-04T00:42:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2866.1158133333333
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-03",
+          "Time": "2025-02-03T00:32:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 2817.3885336216863
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-02",
+          "Time": "2025-02-02T10:03:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3105.783027219467
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-02-01",
+          "Time": "2025-02-01T00:28:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3295.920482244369
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-31",
+          "Time": "2025-01-31T00:13:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3238.614095071136
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-30",
+          "Time": "2025-01-30T00:42:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3109.5915996678254
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-29",
+          "Time": "2025-01-29T00:21:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3100.151549408419
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-28",
+          "Time": "2025-01-28T00:52:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3173.342620638848
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-27",
+          "Time": "2025-01-27T00:15:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3243.4251395967544
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-26",
+          "Time": "2025-01-26T00:42:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3321.18305776036
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-25",
+          "Time": "2025-01-25T03:14:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3295.9247499999997
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-24",
+          "Time": "2025-01-24T12:38:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3390.7777777777774
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-23",
+          "Time": "2025-01-23T00:26:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3254.3450017376413
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-22",
+          "Time": "2025-01-22T00:47:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3327.4551420358566
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-21",
+          "Time": "2025-01-21T00:01:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3287.2262697988976
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-20",
+          "Time": "2025-01-20T00:19:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3194.845049872275
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-19",
+          "Time": "2025-01-19T00:41:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3304.151959798995
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-18",
+          "Time": "2025-01-18T00:16:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3474.5890542244642
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-17",
+          "Time": "2025-01-17T10:23:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3434.3396941558035
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-16",
+          "Time": "2025-01-16T00:35:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3410.4972207094556
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-15",
+          "Time": "2025-01-15T00:05:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3221.0631191528737
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-14",
+          "Time": "2025-01-14T00:30:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3134.108030804667
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-13",
+          "Time": "2025-01-13T00:21:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3273.5086712894185
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-12",
+          "Time": "2025-01-12T00:01:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3281.323430644421
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-11",
+          "Time": "2025-01-11T00:12:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3265.0611707508237
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-10",
+          "Time": "2025-01-10T01:11:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3217.5339943343606
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-09",
+          "Time": "2025-01-09T00:16:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3320.042923656972
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-08",
+          "Time": "2025-01-08T00:31:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3397.60130869353
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-07",
+          "Time": "2025-01-07T00:35:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3688.1038105263156
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-06",
+          "Time": "2025-01-06T00:14:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3641.3131785947276
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-05",
+          "Time": "2025-01-05T00:40:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3659.973933079697
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-04",
+          "Time": "2025-01-04T00:43:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3603.88310875389
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-03",
+          "Time": "2025-01-03T07:36:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3445.080390032412
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-02",
+          "Time": "2025-01-02T00:04:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3353.3069954977013
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2025-01-01",
+          "Time": "2025-01-01T00:10:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3336.84732451473
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-31",
+          "Time": "2024-12-31T00:57:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3328.554694296859
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-30",
+          "Time": "2024-12-30T00:28:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3378.7631971927876
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-29",
+          "Time": "2024-12-29T00:27:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3395.2748251851854
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-28",
+          "Time": "2024-12-28T00:42:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3329.5324
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-27",
+          "Time": "2024-12-27T00:49:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3324.209246028478
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-26",
+          "Time": "2024-12-26T18:50:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3333.882835498049
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-25",
+          "Time": "2024-12-25T00:00:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3485.7659387541557
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-24",
+          "Time": "2024-12-24T00:28:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3393.446251570645
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-23",
+          "Time": "2024-12-23T00:52:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3247.0035420505624
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-22",
+          "Time": "2024-12-22T00:45:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3361.1877599529917
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-21",
+          "Time": "2024-12-21T00:38:11Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3457.529086483531
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-20",
+          "Time": "2024-12-20T00:15:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3401.4718098333506
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-19",
+          "Time": "2024-12-19T06:12:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3668.846837929731
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-18",
+          "Time": "2024-12-18T00:10:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3874.323875
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-17",
+          "Time": "2024-12-17T00:00:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3987.064918032787
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-16",
+          "Time": "2024-12-16T00:53:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 4001.186905758723
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-15",
+          "Time": "2024-12-15T00:15:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3871.133488020176
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-14",
+          "Time": "2024-12-14T00:47:47Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3909.053818120805
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-13",
+          "Time": "2024-12-13T00:57:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3889.786294857152
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-12",
+          "Time": "2024-12-12T00:09:59Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3826.7375033099293
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-11",
+          "Time": "2024-12-11T15:18:23Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3792.3830944594397
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      },
+      {
+        "Block": {
+          "Date": "2024-12-10",
+          "Time": "2024-12-10T00:25:35Z"
+        },
+        "Trade": {
+          "Buy": {
+            "Currency": {
+              "Name": "Wrapped Ether",
+              "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "Price": 3736.5483209890294
+          },
+          "Sell": {
+            "Currency": {
+              "Name": "Tether USD"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

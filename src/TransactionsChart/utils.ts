@@ -110,12 +110,11 @@ export const getTransactionsBarParams = (
   const positionY = y(yMax - value);
   let height = y(value);
   if (height < BAR_MIN_HEIGHT) {
-    const fraction = BAR_MIN_HEIGHT / value;
-    height *= fraction;
+    // Set the minimum height of the bar
+    height = BAR_MIN_HEIGHT;
   }
   return { barWidth, gapWidth, height, positionX, positionY };
 };
 
 export const getMockedTransactions = () => 
-  // @ts-expect-error too big to parse
   transactionsMock.EVM.Transactions as TransactionData[];
